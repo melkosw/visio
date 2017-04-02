@@ -1,5 +1,5 @@
 # visio
-Visiualization program for DAHLIA and EMMA cosmological HDF5 simulation files (or plain-grid files)
+Visiualization program for some RAMZES HDF5 simulation files (or plain-grid files)
 
 
 STEP 1: download dependecies
