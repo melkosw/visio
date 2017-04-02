@@ -1,5 +1,5 @@
 # visio
-Visiualization program for some RAMZES HDF5 simulation files (or plain-grid files)
+Visualization program for cosmological simulations stored in HDF5 hierarchy vector files containing info about cell sizes (or plain-grid binary files)
 
 
 STEP 1: download dependecies
