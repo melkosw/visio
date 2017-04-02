@@ -1,6 +1,5 @@
 # visio
-Visualization program for cosmological simulations stored in HDF5 hierarchy vector files containing info about cell sizes E
-(or plain-grid binary files)
+Visualization program for cosmological simulations stored in HDF5 hierarchy vector files containing info about cell sizes (or plain-grid binary files)
 
 
 STEP 1: download dependecies
